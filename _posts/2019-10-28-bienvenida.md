@@ -16,3 +16,4 @@ En este blog iré subiendo algunos artículos interesantes (con mi propia redacc
 Cabe destacar que para la redacción de este blog estoy utilizando Software Libre ([github](https://github.com/), [haroopad](http://pad.haroopress.com/), [jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-lang.org/), [Ruby on Rails](https://rubyonrails.org/), etc y por supuesto, [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.es.html))
 
 Espero sea de su agrado. Recibiré sus comentarios en [Mi Correo](mailto:prof.rgerhard+comentarios@gmail.com)
+![](https://archive.org/download/michaelretriever-stickers-gnu-linux/michaelretriever-stickers-gnu-linux.png)
