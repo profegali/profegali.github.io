@@ -3,7 +3,8 @@ title: Minimal Text
 baseurl: "/Minimal-Text"
 desc: Un blog pequeño para entradas grandiosas!
 about: Soy Ingeniero en Sistemas Computacionales egresado del [Tecnológico de Estudios Superiores de Ecatepec](http://tese.edu.mx/tese2010/). Actualmente imparto clases en el [Instituto Tecnológico de Iztapalapa III](http://itiztapalapa3.edu.mx) y en el [CETiS32](http://cetis32.edu.mx)
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+image: https://pinto-light.glitch.me/?width=500&height=500&url=https://cdn5.vectorstock.com/i/1000x1000/72/79/mustaches-for-barbershop-or-mustache-carnival-vector-22267279.jpg
+image2: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
